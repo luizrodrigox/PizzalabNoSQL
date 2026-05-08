@@ -1,0 +1,26 @@
+[
+  {
+    "_id": 1,
+    "cliente": {
+      "id_cliente": 1,
+      "nome": "João Silva",
+      "telefone": "99999-9999"
+    },
+    "total": 70,
+    "producao": {
+      "status": "Em preparo"
+    }
+  },
+  {
+    "_id": 2,
+    "cliente": {
+      "id_cliente": 2,
+      "nome": "Maria Souza",
+      "telefone": "88888-8888"
+    },
+    "total": 40,
+    "producao": {
+      "status": "Saiu para entrega"
+    }
+  }
+]
