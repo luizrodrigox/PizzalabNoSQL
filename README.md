@@ -59,7 +59,6 @@ pizzalab-nosql/
 ├── prints/
 │
 ├── relatorio/
-│   └── relatorio_unidade3.pdf
 │
 └── README.md
 ```
@@ -182,7 +181,7 @@ MongoDB
 O relatório completo do projeto encontra-se disponível em:
 
 ```text
-relatorio/relatorio_unidade3.pdf
+relatorio/
 ```
 
 ---
